@@ -6,9 +6,9 @@
 
 🤝 I’m looking for help with<br><br>Advanced DSA optimization<br><br>Real-world Android app architecture<br><br>Deploying LLMs, RAG architectures & AI Agents on Cloud platforms<br><br>
 
-🌱 I’m currently learning<br><br>Advanced Java & Data Structures<br><br>Android (SQLite, SharedPreferences, Background Services)<br><br>LLMs, Retrieval-Augmented Generation (RAG) & Agentic AI Frameworks<br><br>Machine Learning, Neural Networks & Cloud Infrastructure<br><br>
+🌱 I’m currently learning<br><br>Python, Java & Data Structures<br><br>Android (SQLite, SharedPreferences, Background Services)<br><br>LLMs, Retrieval-Augmented Generation (RAG) & Agentic AI Frameworks<br><br>Machine Learning, Neural Networks & Cloud Infrastructure<br><br>
 
-💬 Ask me about<br><br>Java & DSA<br><br>DBMS, SQL & NoSQL<br><br>Android Development<br><br>LLMs, RAG, Agentic AI & AI/ML Fundamentals<br><br>Software Engineering basics
+💬 Ask me about<br><br>Python, Java & DSA<br><br>DBMS, SQL & NoSQL<br><br>Android Development<br><br>LLMs, RAG, Agentic AI & AI/ML Fundamentals<br><br>Software Engineering basics
 
 
 # 💻 Tech Stack:
