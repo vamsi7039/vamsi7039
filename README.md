@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on<br><br>Java, Python & DSA problem-solving<br><br>Android Mobile Application Development<br><br>Building RAG pipelines & Agentic AI Workflows<br><br>Academic & mini-projects in Cloud, IoT, and AI<br><br>
 
-👯 I’m looking to collaborate on<br><br>Open-source Java projects<br><br>Android apps powered by LLMs & AI Agents<br><br>Beginner to intermediate AI/ML, RAG, and Cloud projects<br><br>
+👯 I’m looking to collaborate on<br><br>Open-source Python projects<br><br>Android apps powered by LLMs & AI Agents<br><br>Beginner to intermediate AI/ML, RAG, and Cloud projects<br><br>
 
 🤝 I’m looking for help with<br><br>Advanced DSA optimization<br><br>Real-world Android app architecture<br><br>Deploying LLMs, RAG architectures & AI Agents on Cloud platforms<br><br>
 
