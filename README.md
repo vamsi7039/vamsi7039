@@ -1,14 +1,14 @@
 # 💫 About Me:
 
-🔭 I’m currently working on<br><br>Java & DSA problem-solving<br><br>Android Mobile Application Development<br><br>AI/ML Model Integration & Smart Application Development<br><br>Academic & mini-projects in Cloud, IoT, and AI<br><br>
+🔭 I’m currently working on<br><br>Java, Python & DSA problem-solving<br><br>Android Mobile Application Development<br><br>Building RAG pipelines & Agentic AI Workflows<br><br>Academic & mini-projects in Cloud, IoT, and AI<br><br>
 
-👯 I’m looking to collaborate on<br><br>Open-source Java projects<br><br>Android apps with AI/ML features<br><br>Beginner-friendly AI/ML and Cloud projects<br><br>
+👯 I’m looking to collaborate on<br><br>Open-source Java projects<br><br>Android apps powered by LLMs & AI Agents<br><br>Beginner to intermediate AI/ML, RAG, and Cloud projects<br><br>
 
-🤝 I’m looking for help with<br><br>Advanced DSA optimization<br><br>Real-world Android app architecture<br><br>Deploying AI/ML models on Cloud platforms<br><br>
+🤝 I’m looking for help with<br><br>Advanced DSA optimization<br><br>Real-world Android app architecture<br><br>Deploying LLMs, RAG architectures & AI Agents on Cloud platforms<br><br>
 
-🌱 I’m currently learning<br><br>Advanced Java & Data Structures<br><br>Android (SQLite, SharedPreferences, Background Services)<br><br>Machine Learning Concepts, Deep Learning & Neural Networks<br><br>Cloud Computing & Prompt Engineering<br><br>
+🌱 I’m currently learning<br><br>Advanced Java & Data Structures<br><br>Android (SQLite, SharedPreferences, Background Services)<br><br>LLMs, Retrieval-Augmented Generation (RAG) & Agentic AI Frameworks<br><br>Machine Learning, Neural Networks & Cloud Infrastructure<br><br>
 
-💬 Ask me about<br><br>Java & DSA<br><br>DBMS, SQL & NoSQL<br><br>Android Development<br><br>AI/ML Fundamentals, Deep Learning & Neural Networks<br><br>Software Engineering basics
+💬 Ask me about<br><br>Java & DSA<br><br>DBMS, SQL & NoSQL<br><br>Android Development<br><br>LLMs, RAG, Agentic AI & AI/ML Fundamentals<br><br>Software Engineering basics
 
 
 # 💻 Tech Stack:
