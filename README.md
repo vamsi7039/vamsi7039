@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on<br><br>Java, Python & DSA problem-solving<br><br>Android Mobile Application Development<br><br>Building RAG pipelines & Agentic AI Workflows<br><br>Academic & mini-projects in Cloud, IoT, and AI<br><br>
+🔭 I’m currently working on<br><br>Java, C++, Python & DSA problem-solving<br><br>Android Mobile Application Development<br><br>Building RAG pipelines & Agentic AI Workflows<br><br>Academic & mini-projects in Cloud, IoT, and AI<br><br>
 
 👯 I’m looking to collaborate on<br><br>Open-source Python projects<br><br>Android apps powered by LLMs & AI Agents<br><br>Beginner to intermediate AI/ML, RAG, and Cloud projects<br><br>
 
